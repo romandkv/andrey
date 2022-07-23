@@ -1,0 +1,5 @@
+{
+    "key": "foo",
+    "oldValue": 123,
+    "newValue": "bar"
+}
